@@ -1,0 +1,9 @@
+tmp
+*.class
+*.pyc
+*.pyo
+modules
+Resources/iphone/Default.png
+Resources/iphone/Default@2x.png
+Resources/iphone/Default-Landscape.png
+Resources/iphone/Default-Portrait.png
